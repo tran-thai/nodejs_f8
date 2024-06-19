@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tran-thai/nodejs_f8.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "nodejs",
+    "f8",
+    "nodejs"
+  ],
+  "author": "thaitran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tran-thai/nodejs_f8/issues"
+  },
+  "homepage": "https://github.com/tran-thai/nodejs_f8#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
